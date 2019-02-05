@@ -1,0 +1,96 @@
+cd C:\Users\Steffen\tttool-win32-1.8
+tttool assemble projects/schatzsuche/schatzsuche_rot.yaml
+tttool oid-codes projects/schatzsuche/schatzsuche_rot.yaml
+
+falsch
+Das ist leider falsch. Versucht es noch einmal!
+
+start
+Hallo ihr kleinen Piraten! Ihr wollt also meinen Schatz haben? Sucht ihn doch! Ich habe euch dazu mehrere Hinweise hinterlassen. Ich bin gespannt, ob ihr es schafft meinen Schatz zu finden.
+Eine Sache müsst ihr dabei aber unbedingt beachten: Ihr dürft nur die Hinweise mit der roten Schleifen nehmen. Wenn es eine blaue Schleife hat, dann dürft ihr es nicht anfasssen!
+Alles klar? OK! Seht ihr die roten Pfeile auf dem Boden? Wenn ihr ihnen folgt, gelangt ihr zu eurem ersten Hinweis. Also los!
+
+-> pfeile/gebüsch
+
+rot1
+Ich wusste ihr schafft es, diesen Hinweis zu finden!
+Bevor wir weitermachen, muss ich euch Landratten aber erst einmal auf Piratentauglichkeit überprüfen.
+Dazu müsst ihr mir folgende Frage richtig beantworten:
+Was benötigt ein Pirat auf seinen Abenteuern unbedingt?
+Degen - Dreieck
+Fußball - Quadrat
+Lolli - Kreis
+
+rot1_richtig
+Richtig! Piraten benötigen einen Degen! Ein Degen ist eine lange Waffe mit einer schmalen Klinge. Diese benötigen sie, um mit ihren Feinden zu kämpfen.
+Dann wollen wir mal mit der Suche weitermachen.
+Seht ihr die Rutsche auf dem Spielplatz? Irgendwo dort oben liegt der nächste Hinweis bereit. Nicht vergessen, ihr dürft nur die roten Hinweise nehmen!
+
+-> rutsche
+
+rot2
+Hervorragend! Ihr habt auch diese Karte gefunden. Ihr kommt der Schatztruhe immer näher!
+Mal sehen ob ihr die nächste Frage richtig beantworten könnt:
+Wie werden Piraten noch genannt?
+Matrose - Dreieck
+Seekadett - Quadrat
+Seeräuber - Kreis
+
+rot2_richtig
+Das stimmt! Das lateinische Wort "pirata" heißt übersetzt "Seeräuber".
+Ein Pirat ist ein Bösewicht, der auf dem Meer unterwegs ist.
+Ihr wollt bestimmt mit der Schatzsuche weitermachen, hab ich recht? Ok, dann hört gut zu: Der nächste Hinweis hängt an einem Ast von einem Baumes - ich verrate aber nicht welcher Baum, das müsst ihr selbst herausfinden. Also los, sucht den rotn Hinweis!
+
+-> großer Baum
+
+rot3
+Super! ihr habt schon die Hälfte geschafft! Ihr seid wirklich tolle Piraten!
+Womit bewegen sich Piraten fort?
+a) Pferdekutsche - Dreieck
+b) Segelschiff - Quadrat
+c) Fahrrad - Kreis
+
+rot3_richtig
+Ja genau! Piraten fahren auf einem Segelschiff auf dem Meer. Segel sind riesige Tücher, die an Masten auf einem Schiff hängen. Der Wind bläst gegen diese Segel und somit kann sich das Schiff fortbewegen. Dann wollen wir mal mit der Schatzsuche weitermachen!
+OK, es wird Zeit, um nach dem nächsten Hinweis zu suchen! Seht bei dem Holztisch nach, ob ihr dort euren roten Hinweis entdeckt!
+
+-> Holztisch
+
+rot4
+Ausgezeichnet! Ihr kommt dem Schatz immer näher!
+Als nächstes möchte ich von euch wissen, was ein typisches Merkmal eines Piraten ist:
+Augenklappe - Dreieck
+Sonnenbrille - Quadrat
+Schal - Kreis
+
+rot4_richtig
+Absolut richtig! Ein Pirat musste oft mit dem Degen kämpfen, und da konnte es schonmal passieren, dass er ins Auge gestochen wurde. Deshalb trägt er über diesem verletzten Auge eine Augenklappe.
+Dann mal auf zum nächsten Teil der Schatzkarte! Ich habe ihn an der Wippe befestigt - seht genau nach!
+
+-> Wippe
+
+rot5
+Wow, ihr seid ja erstklassige Schatzsucher! Mal sehen ob ihr die nächste Frage richtig beantworten könnt:
+Welches kleine Tier sitzt auf der Schulter vom Piratenkapitän?
+Frosch - Dreieck
+Maus - Quadrat
+Papagei - Kreis
+
+rot5_richtig
+Ganz genau, der Papagei! Der Papagei hat immer wiederholt, was der Kapitän gesagt hat, falls die Mannschaft es mal vergessen hatte.
+Ihr seid schon fast am Ziel, es fehlt nur noch ein Teil der Schatzkarte! Dieser Teil liegt in der Nähe einer Treppe - ich verrate aber nicht, welche Treppe. Na los, sucht sie!
+
+-> Treppe
+
+rot6
+Was? Ihr habt auch diese Karte gefunden? Dabei hatte ich sie so gut versteckt!
+Dann stelle ich euch nun die letzte Frage. Wenn ihr diese richtig beantwortet, verrate ich euch, wo der Schatz versteckt ist!
+Wo trieben die Piraten ihr Unwesen?
+Dschungel - Dreieck
+Meer - Quadrat
+Wüste - Kreis
+
+rot6_richtig
+Stimmt genau! Piraten segelten mit ihren Segelschiffen natürlich auf dem Meer. Am häufigsten waren sie in der Karibik unterwegs. Die Karibik gehört zum Atlantischen Ozean und befindet sich in Amerika.
+Also gut, da ihr alle Teile der Schatzkarte gefunden habt und auch alle Fragen richtig beantworten konntet, sage ich euch nun, wo der Schatz versteckt ist.
+Ich habe die Schatzkiste vergraben - und zwar im Sandkasten. Los, buddelt sie schnell aus!

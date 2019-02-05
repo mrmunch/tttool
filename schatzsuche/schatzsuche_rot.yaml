@@ -1,0 +1,46 @@
+product-id: 781
+media-path: oggs/%s
+comment: Schatzsuche
+welcome: start_rot
+scripts:
+  rot1:
+  - P(rot1)
+  rot1_richtig:
+  - P(rot1_richtig)
+  rot2:
+  - P(rot2)
+  rot2_richtig:
+  - P(rot2_richtig)
+  rot3:
+  - P(rot3)
+  rot3_richtig:
+  - P(rot3_richtig)
+  rot4:
+  - P(rot4)
+  rot4_richtig:
+  - P(rot4_richtig)
+  rot5:
+  - P(rot5)
+  rot5_richtig:
+  - P(rot5_richtig)
+  rot6:
+  - P(rot6)
+  rot6_richtig:
+  - P(rot6_richtig)
+  falsch:
+  - P(falsch1,falsch2,falsch3)
+scriptcodes:
+  start_rot: 7001
+  falsch: 7002
+  rot1: 7003
+  rot1_richtig: 7004
+  rot2: 7005
+  rot2_richtig: 7006
+  rot3: 7007
+  rot3_richtig: 7008
+  rot4: 7009
+  rot4_richtig: 7010
+  rot5: 70011
+  rot5_richtig: 7012
+  rot6: 7013
+  rot6_richtig: 7014

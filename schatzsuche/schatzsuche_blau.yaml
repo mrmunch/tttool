@@ -1,0 +1,46 @@
+product-id: 782
+media-path: oggs/%s
+comment: Schatzsuche
+welcome: start_blau
+scripts:
+  blau1:
+  - P(blau1)
+  blau1_richtig:
+  - P(blau1_richtig)
+  blau2:
+  - P(blau2)
+  blau2_richtig:
+  - P(blau2_richtig)
+  blau3:
+  - P(blau3)
+  blau3_richtig:
+  - P(blau3_richtig)
+  blau4:
+  - P(blau4)
+  blau4_richtig:
+  - P(blau4_richtig)
+  blau5:
+  - P(blau5)
+  blau5_richtig:
+  - P(blau5_richtig)
+  blau6:
+  - P(blau6)
+  blau6_richtig:
+  - P(blau6_richtig)
+  falsch:
+  - P(falsch1,falsch2,falsch3)
+scriptcodes:
+  start_blau: 7001
+  falsch: 7002
+  blau1: 7003
+  blau1_richtig: 7004
+  blau2: 7005
+  blau2_richtig: 7006
+  blau3: 7007
+  blau3_richtig: 7008
+  blau4: 7009
+  blau4_richtig: 7010
+  blau5: 70011
+  blau5_richtig: 7012
+  blau6: 7013
+  blau6_richtig: 7014

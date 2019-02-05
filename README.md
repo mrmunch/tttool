@@ -1,4 +1,6 @@
-# tttool
+# Piraten Schatzsuche
+
+Zum Erstellen der .gme Dateien wird das Programm [tttool](https://github.com/entropia/tip-toi-reveng) benötigt.
 
 ```sh
 cd $TTTOOL_DIR
